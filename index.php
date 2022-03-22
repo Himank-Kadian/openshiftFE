@@ -2,7 +2,7 @@
 $servername = "openshift6";
 $username = "root";
 $password = "123";
-$dbname = "cgi";
+$dbname = "grocery";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
